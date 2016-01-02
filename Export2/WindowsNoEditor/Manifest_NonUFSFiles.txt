@@ -1,6 +1,6 @@
 Engine\Binaries\Win64\CrashReportClient.exe	2015-12-31T19:44:59.554Z
 Engine\Binaries\Win64\UE4Game.exe	2015-12-31T19:50:56.144Z
-MPK.exe	2016-01-02T10:12:42.512Z
+MPK.exe	2016-01-02T18:58:46.393Z
 Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe	2015-12-31T19:56:37.512Z
 Engine\Binaries\ThirdParty\PhysX\PhysX-3.3\Win64\VS2015\PhysX3PROFILE_x64.dll	2015-12-31T19:43:53.698Z
 Engine\Binaries\ThirdParty\PhysX\PhysX-3.3\Win64\VS2015\PhysX3CommonPROFILE_x64.dll	2015-12-31T19:43:53.562Z
